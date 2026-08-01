@@ -4,6 +4,8 @@
 
 <h1 align="center">Spotify-CSS</h1>
 
+<p align="center"><i>A Spotify-inspired web player built with HTML and CSS, featuring a modern dark-themed interface.</i></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/TYPE-UI%20CLONE-8B5CF6?style=for-the-badge&logo=figma&logoColor=white&labelColor=4C1D95" alt="UI Clone" />
   <img src="https://img.shields.io/badge/TECH-HTML%20%2B%20CSS-14B8A6?style=for-the-badge&logo=html5&logoColor=white&labelColor=0F766E" alt="HTML and CSS" />
@@ -13,7 +15,7 @@
   <img src="https://img.shields.io/badge/FEATURE-PLAYER%20LAYOUT-F97316?style=for-the-badge&logo=spotify&logoColor=white&labelColor=9A2C00" alt="Player layout" />
 </p>
 
-<p align="center">A polished static front-end recreation of a Spotify-inspired web player built with HTML and CSS. The project focuses on visual design, layout structure, and a modern dark-theme experience for a music streaming interface.</p>
+
 
 ## Table of Contents
 
